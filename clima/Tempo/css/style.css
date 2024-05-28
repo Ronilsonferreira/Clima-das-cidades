@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(rgb(238, 238, 168), rgb(165, 199, 238));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#previsao{
+    background: white;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+#previsao button{
+    border: none;
+    font-size: 15px;
+    width: 180px;
+    padding: 8px;
+    background: silver;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#previsao button:hover{
+    background: green;
+    color: white;
+}
