@@ -19,7 +19,7 @@ Este é um aplicativo simples de clima que exibe imagens representando as condi�
 
 1. Clone o repositório:
     ```bash
-    git clone 
+    git clone g
     ```
 2. Abra o arquivo `index.html` no seu navegador.
 
